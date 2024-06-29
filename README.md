@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Abbas!
 
-<!--
-**RunSabba/RunSabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently a **Data Center Network Analyst** looking to pivot into a **Cloud Engineering / DevOps** role. I'm passionate about leveraging cloud technologies and automation to solve complex problems and improve infrastructure efficiency.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 💻 **Currently:** Working as a Data Center Network Analyst
+- 🎯 **Goal:** Transition into Cloud Engineering / DevOps
+- 🌱 **Learning:** Terraform, AWS, Kubernetes, GitHub Actions
+- 🚀 **Projects:** Building a 2-tier architecture using Terraform, implementing CI/CD with GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+### Terraform 2-Tier Architecture
+- **Description:** Working on a 2-tier architecture to solidify my Terraform skills and integrate CI/CD pipelines using GitHub Actions.
+- **Status:** In progress
+- **Technologies:** Terraform, AWS, GitHub Actions
+
+## 🛠️ Tools & Technologies
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📈 GitHub Stats
+![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunSabba&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunSabba&layout=compact&theme=radical)
+
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/abbasnur24/](https://www.linkedin.com/in/abbas-nur-26b5a715b/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasnur24@gmail.com)
+
+## 🎉 Fun Facts
+- 🌍 I love exploring new technologies and applying them to real-world problems.
+- 📚 I'm always eager to learn and grow in my field.
+- 🏆 I'm committed to improving my skills and sharing knowledge with the community.
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
