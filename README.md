@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abbas!
 
-Welcome to my GitHub profile! I'm currently a **Data Center Network Analyst** looking to pivot into a **Cloud Engineering / DevOps** role. I'm passionate about leveraging cloud technologies and automation to solve complex problems and improve infrastructure efficiency.
+Welcome to my GitHub profile! I'm currently a **Data Center Network Analyst** looking to pivot into a **Cloud Engineering** role. I'm passionate about leveraging cloud technologies and automation to solve complex problems and improve infrastructure efficiency.
 
 ## 🌟 About Me
 - 💻 **Currently:** Working as a Data Center Network Analyst
