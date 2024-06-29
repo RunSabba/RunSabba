@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm currently a **Data Center Network Analyst** lo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunSabba&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/abbasnur24/](https://www.linkedin.com/in/abbas-nur-26b5a715b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-nur-26b5a715b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasnur24@gmail.com)
 
 ## 🎉 Fun Facts
