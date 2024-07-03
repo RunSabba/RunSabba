@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm currently a **Data Center Network Analyst** lo
 
 ## 🌟 About Me
 - 💻 **Currently:** Working as a Data Center Network Analyst
-- 🎯 **Goal:** Transition into Cloud Engineering / DevOps
-- 🌱 **Learning:** Terraform, AWS, Kubernetes, GitHub Actions, Docker, Python
-- 🚀 **Projects:** Building a 2-tier architecture using Terraform, implementing CI/CD with GitHub Actions
+- 🎯 **Goal:** Transition into Cloud Engineering
+- 🌱 **Learning:** AWS, Terraform, Python, GitHub Actions, Docker, Kubernetes
+- 🚀 **Projects:** Currently Building a 2-tier architecture using Terraform, implementing CI/CD with GitHub Actions
 
 ## 🔭 Projects
 ### Terraform 2-Tier Architecture
