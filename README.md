@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm currently a **Network Engineer** looking to pivot into a **Cloud Engineering** role. I'm passionate about leveraging cloud technologies and automation to solve complex problems and improve infrastructure efficiency.
 
 ## 🌟 About Me
-- 💻 **Currently:** Working as a Data Center Network Analyst
+- 💻 **Currently:** Working as a Network Engineer
 - 🎯 **Goal:** Transition into Cloud Engineering
 - 🌱 **Learning:** AWS, Terraform, Python, GitHub Actions, Docker, Kubernetes
 - 🚀 **Projects:** Currently Building a 3-tier architecture using Terraform, implementing CI/CD with GitHub Actions
